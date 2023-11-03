@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865314020541",
+    "project_id": "fir-tarea-86e90",
+    "storage_bucket": "fir-tarea-86e90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865314020541:android:e7ebe09e440a9482a5abd4",
+        "android_client_info": {
+          "package_name": "com.example.fire_xdxd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEPnRdKazTPnV2gv7eTCpj4sL3XY3iBgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
